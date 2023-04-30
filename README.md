@@ -1,5 +1,7 @@
 # CI4 SIKEU
 
+* https://id-laravel.com/post/composer-install-vs-update/
+
 * Digunakan sebagai media belajar Codeigniter 4
 * Mungkin ini nanti bukan projek sikeu, karena belum mulai sepenuhnya
 
